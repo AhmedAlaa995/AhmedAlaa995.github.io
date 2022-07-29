@@ -10,19 +10,19 @@ plugins:
 # General Site Settings
 title: Ahmed Alaa
 description: "Hi I'm Ahmed Alaa, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "www.linkedin.com/in/ahmedaelgizawy" # the subpath of your site, e.g. /blog
+url: "www.linkedin.com/in/ahmedaelgizawy" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Cairo, Egypt"
 resume_url: /docs/Ahmed_Alaa_Elgizawy_Resume_2022_.pdf
-avatar_image: /img/1658393612653.JPG
+avatar_image: /img/1658393612653.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/ahmedaelgizawy#" # Add your linkedln handle
+linkedln: "www.linkedin.com/in/ahmedaelgizawy" # Add your linkedln handle
 github: "https://github.com/AhmedElgizawy95#"  # Add your github handle
 
 paginate: 6
